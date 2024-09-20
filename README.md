@@ -7,7 +7,7 @@
 
 ## Como é um software desenvolvido para um cliente, arquivei como privado o código completo.
 
-# Software Desenvolvido para a RHUMO
+# Software desenvolvido para a RHUMO
 ![Processador de Excel](https://github.com/rhuanvictor/Processador_de_Excel/blob/main/processadorexcel.jpg)
 
 ## Descrição
